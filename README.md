@@ -17,7 +17,7 @@ This Android application fetches real-time weather data from a public API and di
 - REST API
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot.png](screenshot.png)
 
 ## How to Run
 1. Clone this repository
